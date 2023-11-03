@@ -1,7 +1,6 @@
 Kubernetes The Hard Way https://github.com/kelseyhightower/kubernetes-the-hard-way 
 
   -  host - Vagrant
-  -  
   -  CNI - Calico
 
 Set some variables 
